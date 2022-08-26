@@ -1,0 +1,6 @@
+#It will not track all the file mentioned here
+
+class12_q1.py
+
+#it will ignore  all file with this extnsion
+*.exe
